@@ -12,15 +12,12 @@ bash ./script.sh
 >
 На Java
 >
- ├─ images
-     └─ Снимок1.jpg
- ├─ README.md
- >
+![Снимок1](https://github.com/Tuguzbay/jusan-git/assets/102782244/b19ee344-8018-4b3a-b3e8-0f918406d264)
+>
  На С++
 >
-  ├─ images
-     └─ Снимок2.jpg
- ├─ README.md
+![Снимок2](https://github.com/Tuguzbay/jusan-git/assets/102782244/028c833b-e93a-4dd4-a07a-1f34c6afd834)
+
 >
  &#128161; Попробуйте реализовать на Python, GO и JavaScript.
  ## Контакты разработчика 
