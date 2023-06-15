@@ -1,1 +1,2 @@
-Alim Tuguzbay
+#!/bin/sh
+echo "Alim Tuguzbay" 
